@@ -1,18 +1,25 @@
 body{
   background-color: lightseagreen;
+  text-align: center;
+  font-family: 'font-family: 'Noto Sans Thai', sans-serif;
 }
 
 p{
-  font-family: 'Kiwi Maru', serif;
-font-weight: 300;
+  font-family: 'Noto Sans Thai', sans-serif;
+font-weight: 400;
   
   
 }
 
 h1{
-   text-align: center;
-  font-family: 'Kiwi Maru', serif;
-  font-size: 16px;
+  text-align: center;
+ font-family: 'font-family: 'Noto Sans Thai', sans-serif;
+ font-size: 25px;
+}
+h2{
+  text-align: center;
+ font-family: 'font-family: 'Noto Sans Thai', sans-serif;
+ font-size: 18px;
 }
 
 .hide{
@@ -24,7 +31,7 @@ h1{
   margin: 0 auto;
 padding: 10px 20px;
   border: 1px solid #644666;
-  font-size: 12px;
+  font-size: 18px;
 }
 
 .LP-txt{
