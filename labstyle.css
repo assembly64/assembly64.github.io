@@ -1,0 +1,79 @@
+body{
+  background-color: black;
+}
+
+p{
+  font-family: 'Kiwi Maru', serif;
+font-weight: 300;
+  
+  
+}
+
+h1{
+   text-align: center;
+  font-family: 'Kiwi Maru', serif;
+  font-size: 16px;
+}
+
+.hide{
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  position: absolute;
+  margin: 0 auto;
+padding: 10px 20px;
+  border: 1px solid #644666;
+  font-size: 12px;
+}
+
+.LP-txt{
+  top: 10%;
+  left: 45%;
+}
+
+.PN-txt{
+  top: 16%;
+  left: 45%;
+}
+
+.KK1-txt{
+  top: 25%;
+  left: 9%;
+}
+.KK2-txt{
+  top: 25%;
+  left: 50%;
+}
+
+
+.SR-txt{
+  top: 40%;
+  left: 60%;
+}
+.BKK-txt{
+  top: 70%;
+  left: 50%;
+}
+.NP-txt{
+  top: 40%;
+  left: 10%;
+}
+.RB-txt{
+  top: 50%;
+  left: 10%;
+}
+.NS-txt{
+  top: 70%;
+  left: 10%;
+}
+.SK-txt{
+  top: 70%;
+  right: 30%;
+}
+.CB-txt{
+  top: 50%;
+  left: 60%;  content: "";
+ 
+}
+
